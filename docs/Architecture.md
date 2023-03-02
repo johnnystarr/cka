@@ -1,6 +1,4 @@
-# Master
-
-## Control Plane
+# Control Plane
 
 - Highly Available
 
